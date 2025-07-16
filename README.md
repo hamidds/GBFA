@@ -1,6 +1,6 @@
 # Farsi Gender Bias Evaluation Datasets
 
-This repository contains the Farsi-translated datasets used in the paper "Measuring Gender Bias in Language Models in Farsi" by Saffari et al., accepted at the GebNLP workshop for ACL 2025. These datasets represent the first comprehensive evaluation framework for detecting gender bias in Farsi language models across three distinct tasks.
+This repository contains the Farsi-translated datasets used in the paper "Measuring Gender Bias in Language Models in Farsi". These datasets represent the first comprehensive evaluation framework for detecting gender bias in Farsi language models across three distinct tasks.
 
 ## 📋 Overview
 
@@ -104,7 +104,7 @@ If you use these datasets in your research, please cite:
 @article{safari2025measuring,
   title={Measuring Gender Bias in Language Models in Farsi},
   author={Hamidreza Safari, Mohammadamin Shafiei, Donya Rooein, and Debora Nozza},
-  journal={ ebNLP workshop for ACL 2025},
+  journal={ GebNLP workshop for ACL 2025},
   year={2025}
 }
 ```
