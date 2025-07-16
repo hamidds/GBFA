@@ -123,18 +123,6 @@ If you use these datasets in your research, please cite:
 - Transparent reporting of limitations and potential biases
 - Contribution to more inclusive NLP research for underrepresented languages
 
-## 🤝 Contributing
-
-We welcome contributions to improve and extend these datasets:
-- Additional validation by native speakers
-- Cultural adaptation of evaluation frameworks
-- Extension to non-binary gender categories
-- Manual translation improvements
-
-## 📄 License
-
-[Add appropriate license information]
-
 
 ---
 If you have any questions, do not hesitate to contact hamidreza.saffari@mail.polimi.it
