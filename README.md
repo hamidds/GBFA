@@ -100,8 +100,13 @@ This work introduces adapted versions of three established English bias evaluati
 
 If you use these datasets in your research, please cite:
 
-```bibtex
-
+```
+@article{safari2025measuring,
+  title={Measuring Gender Bias in Language Models in Farsi},
+  author={Hamidreza Safari, Mohammadamin Shafiei, Donya Rooein, and Debora Nozza},
+  journal={ ebNLP workshop for ACL 2025},
+  year={2025}
+}
 ```
 
 ## ⚖️ Ethics & Limitations
@@ -126,30 +131,10 @@ We welcome contributions to improve and extend these datasets:
 - Extension to non-binary gender categories
 - Manual translation improvements
 
-## 📞 Contact
-
-- **Hamidreza Saffari**: hamidreza.saffari@mail.polimi.it
-- **Mohammadamin Shafiei**: m.shafieiapoorvari@studenti.unimi.it  
-- **Donya Rooein**: donya.rooein@unibocconi.it
-- **Debora Nozza**: debora.nozza@unibocconi.it
-
-## 🏛️ Affiliations
-
-- Politecnico di Milano
-- University of Milan  
-- Bocconi University
-
 ## 📄 License
 
 [Add appropriate license information]
 
-## 🙏 Acknowledgments
-
-This research is supported by:
-- European Research Council (ERC) under Horizon 2020 (grant agreement No. 101116095, PERSONAE)
-- ERC under Horizon 2020 (grant agreement No. 949944, INTEGRATOR)
-- MilaNLP group and BIDSA at Bocconi University
 
 ---
-
-**Note**: This work represents an important step toward more inclusive bias research in underrepresented languages. We encourage responsible use of these datasets and welcome collaboration to further advance fairness in NLP for diverse linguistic communities. 
+If you have any questions, do not hesitate to contact hamidreza.saffari@mail.polimi.it
