@@ -1,6 +1,8 @@
 # Farsi Gender Bias Evaluation Datasets
 
-This repository contains the Farsi-translated datasets used in the paper "Measuring Gender Bias in Language Models in Farsi". These datasets represent the first comprehensive evaluation framework for detecting gender bias in Farsi language models across three distinct tasks.
+This repository contains the Farsi-translated datasets used in the paper *"Measuring Gender Bias in Language Models in Farsi"* ([paper link](https://aclanthology.org/2025.gebnlp-1.21/)). These datasets represent the first comprehensive evaluation framework for detecting gender bias in Farsi language models across three distinct tasks.
+
+The paper was published in the *Proceedings of the 6th Workshop on Gender Bias in Natural Language Processing (GeBNLP)* at ACL 2025.
 
 ## 📋 Overview
 
@@ -101,11 +103,25 @@ This work introduces adapted versions of three established English bias evaluati
 If you use these datasets in your research, please cite:
 
 ```
-@article{safari2025measuring,
-  title={Measuring Gender Bias in Language Models in Farsi},
-  author={Hamidreza Safari, Mohammadamin Shafiei, Donya Rooein, and Debora Nozza},
-  journal={ GebNLP workshop for ACL 2025},
-  year={2025}
+@inproceedings{saffari-etal-2025-measuring,
+    title = "Measuring Gender Bias in Language Models in {F}arsi",
+    author = "Saffari, Hamidreza  and
+      Shafiei, Mohammadamin  and
+      Rooein, Donya  and
+      Nozza, Debora",
+    editor = "Fale{\'n}ska, Agnieszka  and
+      Basta, Christine  and
+      Costa-juss{\`a}, Marta  and
+      Sta{\'n}czak, Karolina  and
+      Nozza, Debora",
+    booktitle = "Proceedings of the 6th Workshop on Gender Bias in Natural Language Processing (GeBNLP)",
+    month = aug,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.gebnlp-1.21/",
+    pages = "228--241",
+    ISBN = "979-8-89176-277-0"
 }
 ```
 
